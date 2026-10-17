@@ -1,0 +1,56 @@
+# Python
+__pycache__/
+*.pyc
+
+# 音声の中間生成物（manifest.json が参照するものだけ下で除外解除）
+*.wav
+assets/audio/backups/
+assets/audio/previews/
+assets/audio/manifest-before-*.json
+assets/audio/generated/*
+!assets/audio/generated/283ee420d2752e06bdc5/
+assets/audio/generated/283ee420d2752e06bdc5/*
+!assets/audio/generated/283ee420d2752e06bdc5/continuous/
+!assets/audio/generated/8140ce3e69f04e60bfe9/
+assets/audio/generated/8140ce3e69f04e60bfe9/*
+!assets/audio/generated/8140ce3e69f04e60bfe9/slow/
+
+# 空のツール用フォルダ
+.agents/
+.aws/
+.codex/
+
+# アプリが読み込まない通し・経題のMP3（ローカルにだけ置く）
+assets/audio/kannongyo-*.mp3
+
+# 会話ログ（ローカルにだけ置く）
+docs/conversation-logs/
+
+# 秘密情報・認証情報
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+id_rsa*
+id_ed25519*
+credentials*.json
+secrets.*
+.netrc
+.npmrc
+.pypirc
+
+# 仮想環境・依存パッケージ
+.venv/
+venv/
+node_modules/
+
+# エディタ・AIツール・OS
+.vscode/
+.idea/
+.claude/
+.DS_Store
+Thumbs.db
+*.swp
+*.log

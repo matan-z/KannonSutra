@@ -1,0 +1,2191 @@
+{
+  "version": 1,
+  "credit": "VOICEVOX:麒ヶ島宗麟",
+  "style": "ノーマル",
+  "engineVersion": "0.25.2",
+  "notice": "合成音声の音程を参考動画に合わせて調整しています。宗派固有の読経を厳密に再現したものではありません。",
+  "profiles": {
+    "slow": {
+      "label": "ゆっくり覚える",
+      "src": "assets/audio/generated/8140ce3e69f04e60bfe9/slow/full.mp3",
+      "phrases": {
+        "1": {
+          "id": 1,
+          "part": "ge",
+          "kanji": "世尊妙相具",
+          "yomi": "せそんみょうそうぐ",
+          "start": 0.0,
+          "end": 1.42,
+          "src": "assets/audio/generated/8140ce3e69f04e60bfe9/slow/001.mp3"
+        },
+        "2": {
+          "id": 2,
+          "part": "ge",
+          "kanji": "我今重問彼",
+          "yomi": "がこんじゅうもんぴ",
+          "start": 1.42,
+          "end": 2.88,
+          "src": "assets/audio/generated/8140ce3e69f04e60bfe9/slow/002.mp3"
+        },
+        "3": {
+          "id": 3,
+          "part": "ge",
+          "kanji": "仏子何因縁",
+          "yomi": "ぶっしがいんねん",
+          "start": 2.88,
+          "end": 4.12,
+          "src": "assets/audio/generated/8140ce3e69f04e60bfe9/slow/003.mp3"
+        },
+        "4": {
+          "id": 4,
+          "part": "ge",
+          "kanji": "名為観世音",
+          "yomi": "みょういかんぜおん",
+          "start": 4.12,
+          "end": 5.515,
+          "src": "assets/audio/generated/8140ce3e69f04e60bfe9/slow/004.mp3"
+        },
+        "5": {
+          "id": 5,
+          "part": "ge",
+          "kanji": "具足妙相尊",
+          "yomi": "ぐそくみょうそうそん",
+          "start": 5.515,
+          "end": 7.04,
+          "src": "assets/audio/generated/8140ce3e69f04e60bfe9/slow/005.mp3"
+        },
+        "6": {
+          "id": 6,
+          "part": "ge",
+          "kanji": "偈答無尽意",
+          "yomi": "げとうむじんに",
+          "start": 7.04,
+          "end": 8.325,
+          "src": "assets/audio/generated/8140ce3e69f04e60bfe9/slow/006.mp3"
+        },
+        "7": {
+          "id": 7,
+          "part": "ge",
+          "kanji": "汝聴観音行",
+          "yomi": "にょちょうかんのんぎょう",
+          "start": 8.325,
+          "end": 9.82,
+          "src": "assets/audio/generated/8140ce3e69f04e60bfe9/slow/007.mp3"
+        },
+        "8": {
+          "id": 8,
+          "part": "ge",
+          "kanji": "善応諸方所",
+          "yomi": "ぜんのうしょほうじょ",
+          "start": 9.82,
+          "end": 11.3,
+          "src": "assets/audio/generated/8140ce3e69f04e60bfe9/slow/008.mp3"
+        },
+        "9": {
+          "id": 9,
+          "part": "ge",
+          "kanji": "弘誓深如海",
+          "yomi": "ぐぜいじんにょかい",
+          "start": 11.3,
+          "end": 12.785,
+          "src": "assets/audio/generated/8140ce3e69f04e60bfe9/slow/009.mp3"
+        },
+        "10": {
+          "id": 10,
+          "part": "ge",
+          "kanji": "歴劫不思議",
+          "yomi": "りゃっこうふしぎ",
+          "start": 12.785,
+          "end": 14.115,
+          "src": "assets/audio/generated/8140ce3e69f04e60bfe9/slow/010.mp3"
+        },
+        "11": {
+          "id": 11,
+          "part": "ge",
+          "kanji": "侍多千億仏",
+          "yomi": "じたせんのくぶつ",
+          "start": 14.115,
+          "end": 15.54,
+          "src": "assets/audio/generated/8140ce3e69f04e60bfe9/slow/011.mp3"
+        },
+        "12": {
+          "id": 12,
+          "part": "ge",
+          "kanji": "発大清浄願",
+          "yomi": "ほつだいしょうじょうがん",
+          "start": 15.54,
+          "end": 17.1,
+          "src": "assets/audio/generated/8140ce3e69f04e60bfe9/slow/012.mp3"
+        },
+        "13": {
+          "id": 13,
+          "part": "ge",
+          "kanji": "我為汝略説",
+          "yomi": "がいにょりゃくせつ",
+          "start": 17.1,
+          "end": 18.545,
+          "src": "assets/audio/generated/8140ce3e69f04e60bfe9/slow/013.mp3"
+        },
+        "14": {
+          "id": 14,
+          "part": "ge",
+          "kanji": "聞名及見身",
+          "yomi": "もんみょうぎゅうけんしん",
+          "start": 18.545,
+          "end": 20.265,
+          "src": "assets/audio/generated/8140ce3e69f04e60bfe9/slow/014.mp3"
+        },
+        "15": {
+          "id": 15,
+          "part": "ge",
+          "kanji": "心念不空過",
+          "yomi": "しんねんぷくうか",
+          "start": 20.265,
+          "end": 21.73,
+          "src": "assets/audio/generated/8140ce3e69f04e60bfe9/slow/015.mp3"
+        },
+        "16": {
+          "id": 16,
+          "part": "ge",
+          "kanji": "能滅諸有苦",
+          "yomi": "のうめつしょうく",
+          "start": 21.73,
+          "end": 22.975,
+          "src": "assets/audio/generated/8140ce3e69f04e60bfe9/slow/016.mp3"
+        },
+        "17": {
+          "id": 17,
+          "part": "ge",
+          "kanji": "仮使興害意",
+          "yomi": "けしこうがいい",
+          "start": 22.975,
+          "end": 24.105,
+          "src": "assets/audio/generated/8140ce3e69f04e60bfe9/slow/017.mp3"
+        },
+        "18": {
+          "id": 18,
+          "part": "ge",
+          "kanji": "推落大火坑",
+          "yomi": "すいらくだいかきょう",
+          "start": 24.105,
+          "end": 25.585,
+          "src": "assets/audio/generated/8140ce3e69f04e60bfe9/slow/018.mp3"
+        },
+        "19": {
+          "id": 19,
+          "part": "ge",
+          "kanji": "念彼観音力",
+          "yomi": "ねんぴかんのんりき",
+          "start": 25.585,
+          "end": 27.165,
+          "src": "assets/audio/generated/8140ce3e69f04e60bfe9/slow/019.mp3"
+        },
+        "20": {
+          "id": 20,
+          "part": "ge",
+          "kanji": "火坑変成池",
+          "yomi": "かきょうへんじょうち",
+          "start": 27.165,
+          "end": 28.64,
+          "src": "assets/audio/generated/8140ce3e69f04e60bfe9/slow/020.mp3"
+        },
+        "21": {
+          "id": 21,
+          "part": "ge",
+          "kanji": "或漂流巨海",
+          "yomi": "わくひょうるこかい",
+          "start": 28.64,
+          "end": 29.995,
+          "src": "assets/audio/generated/8140ce3e69f04e60bfe9/slow/021.mp3"
+        },
+        "22": {
+          "id": 22,
+          "part": "ge",
+          "kanji": "竜魚諸鬼難",
+          "yomi": "りゅうごしょきなん",
+          "start": 29.995,
+          "end": 31.18,
+          "src": "assets/audio/generated/8140ce3e69f04e60bfe9/slow/022.mp3"
+        },
+        "23": {
+          "id": 23,
+          "part": "ge",
+          "kanji": "念彼観音力",
+          "yomi": "ねんぴかんのんりき",
+          "start": 31.18,
+          "end": 32.76,
+          "src": "assets/audio/generated/8140ce3e69f04e60bfe9/slow/023.mp3"
+        },
+        "24": {
+          "id": 24,
+          "part": "ge",
+          "kanji": "波浪不能没",
+          "yomi": "はろうふのうもつ",
+          "start": 32.76,
+          "end": 34.175,
+          "src": "assets/audio/generated/8140ce3e69f04e60bfe9/slow/024.mp3"
+        },
+        "25": {
+          "id": 25,
+          "part": "ge",
+          "kanji": "或在須弥峰",
+          "yomi": "わくざいしゅみぶ",
+          "start": 34.175,
+          "end": 35.405,
+          "src": "assets/audio/generated/8140ce3e69f04e60bfe9/slow/025.mp3"
+        },
+        "26": {
+          "id": 26,
+          "part": "ge",
+          "kanji": "為人所推堕",
+          "yomi": "いにんしょすいだ",
+          "start": 35.405,
+          "end": 36.565,
+          "src": "assets/audio/generated/8140ce3e69f04e60bfe9/slow/026.mp3"
+        },
+        "27": {
+          "id": 27,
+          "part": "ge",
+          "kanji": "念彼観音力",
+          "yomi": "ねんぴかんのんりき",
+          "start": 36.565,
+          "end": 38.145,
+          "src": "assets/audio/generated/8140ce3e69f04e60bfe9/slow/027.mp3"
+        },
+        "28": {
+          "id": 28,
+          "part": "ge",
+          "kanji": "如日虚空住",
+          "yomi": "にょにちこくうじゅう",
+          "start": 38.145,
+          "end": 39.57,
+          "src": "assets/audio/generated/8140ce3e69f04e60bfe9/slow/028.mp3"
+        },
+        "29": {
+          "id": 29,
+          "part": "ge",
+          "kanji": "或被悪人逐",
+          "yomi": "わくひあくにんちく",
+          "start": 39.57,
+          "end": 41.2,
+          "src": "assets/audio/generated/8140ce3e69f04e60bfe9/slow/029.mp3"
+        },
+        "30": {
+          "id": 30,
+          "part": "ge",
+          "kanji": "堕落金剛山",
+          "yomi": "だらくこんごうせん",
+          "start": 41.2,
+          "end": 42.735,
+          "src": "assets/audio/generated/8140ce3e69f04e60bfe9/slow/030.mp3"
+        },
+        "31": {
+          "id": 31,
+          "part": "ge",
+          "kanji": "念彼観音力",
+          "yomi": "ねんぴかんのんりき",
+          "start": 42.735,
+          "end": 44.315,
+          "src": "assets/audio/generated/8140ce3e69f04e60bfe9/slow/031.mp3"
+        },
+        "32": {
+          "id": 32,
+          "part": "ge",
+          "kanji": "不能損一毛",
+          "yomi": "ふのうそんいちもう",
+          "start": 44.315,
+          "end": 45.68,
+          "src": "assets/audio/generated/8140ce3e69f04e60bfe9/slow/032.mp3"
+        },
+        "33": {
+          "id": 33,
+          "part": "ge",
+          "kanji": "或値怨賊繞",
+          "yomi": "わくちおんぞくにょう",
+          "start": 45.68,
+          "end": 47.21,
+          "src": "assets/audio/generated/8140ce3e69f04e60bfe9/slow/033.mp3"
+        },
+        "34": {
+          "id": 34,
+          "part": "ge",
+          "kanji": "各執刀加害",
+          "yomi": "かくしゅうとうかがい",
+          "start": 47.21,
+          "end": 48.66,
+          "src": "assets/audio/generated/8140ce3e69f04e60bfe9/slow/034.mp3"
+        },
+        "35": {
+          "id": 35,
+          "part": "ge",
+          "kanji": "念彼観音力",
+          "yomi": "ねんぴかんのんりき",
+          "start": 48.66,
+          "end": 50.24,
+          "src": "assets/audio/generated/8140ce3e69f04e60bfe9/slow/035.mp3"
+        },
+        "36": {
+          "id": 36,
+          "part": "ge",
+          "kanji": "咸即起慈心",
+          "yomi": "げんそくきじしん",
+          "start": 50.24,
+          "end": 51.66,
+          "src": "assets/audio/generated/8140ce3e69f04e60bfe9/slow/036.mp3"
+        },
+        "37": {
+          "id": 37,
+          "part": "ge",
+          "kanji": "或遭王難苦",
+          "yomi": "わくそうおうなんく",
+          "start": 51.66,
+          "end": 53.095,
+          "src": "assets/audio/generated/8140ce3e69f04e60bfe9/slow/037.mp3"
+        },
+        "38": {
+          "id": 38,
+          "part": "ge",
+          "kanji": "臨刑欲寿終",
+          "yomi": "りんぎょうよくじゅじゅう",
+          "start": 53.095,
+          "end": 54.615,
+          "src": "assets/audio/generated/8140ce3e69f04e60bfe9/slow/038.mp3"
+        },
+        "39": {
+          "id": 39,
+          "part": "ge",
+          "kanji": "念彼観音力",
+          "yomi": "ねんぴかんのんりき",
+          "start": 54.615,
+          "end": 56.195,
+          "src": "assets/audio/generated/8140ce3e69f04e60bfe9/slow/039.mp3"
+        },
+        "40": {
+          "id": 40,
+          "part": "ge",
+          "kanji": "刀尋段段壊",
+          "yomi": "とうじんだんだんえ",
+          "start": 56.195,
+          "end": 57.69,
+          "src": "assets/audio/generated/8140ce3e69f04e60bfe9/slow/040.mp3"
+        },
+        "41": {
+          "id": 41,
+          "part": "ge",
+          "kanji": "或囚禁枷鎖",
+          "yomi": "わくしゅうきんかさ",
+          "start": 57.69,
+          "end": 59.105,
+          "src": "assets/audio/generated/8140ce3e69f04e60bfe9/slow/041.mp3"
+        },
+        "42": {
+          "id": 42,
+          "part": "ge",
+          "kanji": "手足被杻械",
+          "yomi": "しゅそくひちゅうかい",
+          "start": 59.105,
+          "end": 60.555,
+          "src": "assets/audio/generated/8140ce3e69f04e60bfe9/slow/042.mp3"
+        },
+        "43": {
+          "id": 43,
+          "part": "ge",
+          "kanji": "念彼観音力",
+          "yomi": "ねんぴかんのんりき",
+          "start": 60.555,
+          "end": 62.135,
+          "src": "assets/audio/generated/8140ce3e69f04e60bfe9/slow/043.mp3"
+        },
+        "44": {
+          "id": 44,
+          "part": "ge",
+          "kanji": "釈然得解脱",
+          "yomi": "しゃくねんとくげだつ",
+          "start": 62.135,
+          "end": 63.765,
+          "src": "assets/audio/generated/8140ce3e69f04e60bfe9/slow/044.mp3"
+        },
+        "45": {
+          "id": 45,
+          "part": "ge",
+          "kanji": "呪詛諸毒薬",
+          "yomi": "しゅそしょどくやく",
+          "start": 63.765,
+          "end": 65.05,
+          "src": "assets/audio/generated/8140ce3e69f04e60bfe9/slow/045.mp3"
+        },
+        "46": {
+          "id": 46,
+          "part": "ge",
+          "kanji": "所欲害身者",
+          "yomi": "しょよくがいしんしゃ",
+          "start": 65.05,
+          "end": 66.49,
+          "src": "assets/audio/generated/8140ce3e69f04e60bfe9/slow/046.mp3"
+        },
+        "47": {
+          "id": 47,
+          "part": "ge",
+          "kanji": "念彼観音力",
+          "yomi": "ねんぴかんのんりき",
+          "start": 66.49,
+          "end": 68.07,
+          "src": "assets/audio/generated/8140ce3e69f04e60bfe9/slow/047.mp3"
+        },
+        "48": {
+          "id": 48,
+          "part": "ge",
+          "kanji": "還著於本人",
+          "yomi": "げんじゃくおほんにん",
+          "start": 68.07,
+          "end": 69.6,
+          "src": "assets/audio/generated/8140ce3e69f04e60bfe9/slow/048.mp3"
+        },
+        "49": {
+          "id": 49,
+          "part": "ge",
+          "kanji": "或遇悪羅刹",
+          "yomi": "わくぐうあくらせつ",
+          "start": 69.6,
+          "end": 71.26,
+          "src": "assets/audio/generated/8140ce3e69f04e60bfe9/slow/049.mp3"
+        },
+        "50": {
+          "id": 50,
+          "part": "ge",
+          "kanji": "毒竜諸鬼等",
+          "yomi": "どくりゅうしょきとう",
+          "start": 71.26,
+          "end": 72.615,
+          "src": "assets/audio/generated/8140ce3e69f04e60bfe9/slow/050.mp3"
+        },
+        "51": {
+          "id": 51,
+          "part": "ge",
+          "kanji": "念彼観音力",
+          "yomi": "ねんぴかんのんりき",
+          "start": 72.615,
+          "end": 74.195,
+          "src": "assets/audio/generated/8140ce3e69f04e60bfe9/slow/051.mp3"
+        },
+        "52": {
+          "id": 52,
+          "part": "ge",
+          "kanji": "時悉不敢害",
+          "yomi": "じしつふかんがい",
+          "start": 74.195,
+          "end": 75.555,
+          "src": "assets/audio/generated/8140ce3e69f04e60bfe9/slow/052.mp3"
+        },
+        "53": {
+          "id": 53,
+          "part": "ge",
+          "kanji": "若悪獣囲繞",
+          "yomi": "にゃくあくじゅういにょう",
+          "start": 75.555,
+          "end": 77.115,
+          "src": "assets/audio/generated/8140ce3e69f04e60bfe9/slow/053.mp3"
+        },
+        "54": {
+          "id": 54,
+          "part": "ge",
+          "kanji": "利牙爪可怖",
+          "yomi": "りげそうかふ",
+          "start": 77.115,
+          "end": 78.27,
+          "src": "assets/audio/generated/8140ce3e69f04e60bfe9/slow/054.mp3"
+        },
+        "55": {
+          "id": 55,
+          "part": "ge",
+          "kanji": "念彼観音力",
+          "yomi": "ねんぴかんのんりき",
+          "start": 78.27,
+          "end": 79.85,
+          "src": "assets/audio/generated/8140ce3e69f04e60bfe9/slow/055.mp3"
+        },
+        "56": {
+          "id": 56,
+          "part": "ge",
+          "kanji": "疾走無辺方",
+          "yomi": "しっそうむへんぼう",
+          "start": 79.85,
+          "end": 81.375,
+          "src": "assets/audio/generated/8140ce3e69f04e60bfe9/slow/056.mp3"
+        },
+        "57": {
+          "id": 57,
+          "part": "ge",
+          "kanji": "蚖蛇及蝮蝎",
+          "yomi": "がんじゃぎゅうふくかつ",
+          "start": 81.375,
+          "end": 83.0,
+          "src": "assets/audio/generated/8140ce3e69f04e60bfe9/slow/057.mp3"
+        },
+        "58": {
+          "id": 58,
+          "part": "ge",
+          "kanji": "気毒煙火燃",
+          "yomi": "けどくえんかねん",
+          "start": 83.0,
+          "end": 84.34,
+          "src": "assets/audio/generated/8140ce3e69f04e60bfe9/slow/058.mp3"
+        },
+        "59": {
+          "id": 59,
+          "part": "ge",
+          "kanji": "念彼観音力",
+          "yomi": "ねんぴかんのんりき",
+          "start": 84.34,
+          "end": 85.92,
+          "src": "assets/audio/generated/8140ce3e69f04e60bfe9/slow/059.mp3"
+        },
+        "60": {
+          "id": 60,
+          "part": "ge",
+          "kanji": "尋声自回去",
+          "yomi": "じんしょうじえこ",
+          "start": 85.92,
+          "end": 87.245,
+          "src": "assets/audio/generated/8140ce3e69f04e60bfe9/slow/060.mp3"
+        },
+        "61": {
+          "id": 61,
+          "part": "ge",
+          "kanji": "雲雷鼓掣電",
+          "yomi": "うんらいくせいでん",
+          "start": 87.245,
+          "end": 88.615,
+          "src": "assets/audio/generated/8140ce3e69f04e60bfe9/slow/061.mp3"
+        },
+        "62": {
+          "id": 62,
+          "part": "ge",
+          "kanji": "降雹澍大雨",
+          "yomi": "ごうばくじゅだいう",
+          "start": 88.615,
+          "end": 89.915,
+          "src": "assets/audio/generated/8140ce3e69f04e60bfe9/slow/062.mp3"
+        },
+        "63": {
+          "id": 63,
+          "part": "ge",
+          "kanji": "念彼観音力",
+          "yomi": "ねんぴかんのんりき",
+          "start": 89.915,
+          "end": 91.495,
+          "src": "assets/audio/generated/8140ce3e69f04e60bfe9/slow/063.mp3"
+        },
+        "64": {
+          "id": 64,
+          "part": "ge",
+          "kanji": "応時得消散",
+          "yomi": "おうじとくしょうさん",
+          "start": 91.495,
+          "end": 92.935,
+          "src": "assets/audio/generated/8140ce3e69f04e60bfe9/slow/064.mp3"
+        },
+        "65": {
+          "id": 65,
+          "part": "ge",
+          "kanji": "衆生被困厄",
+          "yomi": "しゅじょうひこんやく",
+          "start": 92.935,
+          "end": 94.345,
+          "src": "assets/audio/generated/8140ce3e69f04e60bfe9/slow/065.mp3"
+        },
+        "66": {
+          "id": 66,
+          "part": "ge",
+          "kanji": "無量苦逼身",
+          "yomi": "むりょうくひっしん",
+          "start": 94.345,
+          "end": 95.785,
+          "src": "assets/audio/generated/8140ce3e69f04e60bfe9/slow/066.mp3"
+        },
+        "67": {
+          "id": 67,
+          "part": "ge",
+          "kanji": "観音妙智力",
+          "yomi": "かんのんみょうちりき",
+          "start": 95.785,
+          "end": 97.32,
+          "src": "assets/audio/generated/8140ce3e69f04e60bfe9/slow/067.mp3"
+        },
+        "68": {
+          "id": 68,
+          "part": "ge",
+          "kanji": "能救世間苦",
+          "yomi": "のうくせけんく",
+          "start": 97.32,
+          "end": 98.61,
+          "src": "assets/audio/generated/8140ce3e69f04e60bfe9/slow/068.mp3"
+        },
+        "69": {
+          "id": 69,
+          "part": "ge",
+          "kanji": "具足神通力",
+          "yomi": "ぐそくじんづうりき",
+          "start": 98.61,
+          "end": 100.205,
+          "src": "assets/audio/generated/8140ce3e69f04e60bfe9/slow/069.mp3"
+        },
+        "70": {
+          "id": 70,
+          "part": "ge",
+          "kanji": "広修智方便",
+          "yomi": "こうしゅちほうべん",
+          "start": 100.205,
+          "end": 101.55,
+          "src": "assets/audio/generated/8140ce3e69f04e60bfe9/slow/070.mp3"
+        },
+        "71": {
+          "id": 71,
+          "part": "ge",
+          "kanji": "十方諸国土",
+          "yomi": "じっぽうしょこくど",
+          "start": 101.55,
+          "end": 102.99,
+          "src": "assets/audio/generated/8140ce3e69f04e60bfe9/slow/071.mp3"
+        },
+        "72": {
+          "id": 72,
+          "part": "ge",
+          "kanji": "無刹不現身",
+          "yomi": "むせつふげんしん",
+          "start": 102.99,
+          "end": 104.48,
+          "src": "assets/audio/generated/8140ce3e69f04e60bfe9/slow/072.mp3"
+        },
+        "73": {
+          "id": 73,
+          "part": "ge",
+          "kanji": "種種諸悪趣",
+          "yomi": "しゅじゅしょあくしゅ",
+          "start": 104.48,
+          "end": 105.615,
+          "src": "assets/audio/generated/8140ce3e69f04e60bfe9/slow/073.mp3"
+        },
+        "74": {
+          "id": 74,
+          "part": "ge",
+          "kanji": "地獄鬼畜生",
+          "yomi": "じごくきちくしょう",
+          "start": 105.615,
+          "end": 107.035,
+          "src": "assets/audio/generated/8140ce3e69f04e60bfe9/slow/074.mp3"
+        },
+        "75": {
+          "id": 75,
+          "part": "ge",
+          "kanji": "生老病死苦",
+          "yomi": "しょうろうびょうしく",
+          "start": 107.035,
+          "end": 108.385,
+          "src": "assets/audio/generated/8140ce3e69f04e60bfe9/slow/075.mp3"
+        },
+        "76": {
+          "id": 76,
+          "part": "ge",
+          "kanji": "以漸悉令滅",
+          "yomi": "いぜんしつりょうめつ",
+          "start": 108.385,
+          "end": 109.9,
+          "src": "assets/audio/generated/8140ce3e69f04e60bfe9/slow/076.mp3"
+        },
+        "77": {
+          "id": 77,
+          "part": "ge",
+          "kanji": "真観清浄観",
+          "yomi": "しんかんしょうじょうかん",
+          "start": 109.9,
+          "end": 111.585,
+          "src": "assets/audio/generated/8140ce3e69f04e60bfe9/slow/077.mp3"
+        },
+        "78": {
+          "id": 78,
+          "part": "ge",
+          "kanji": "広大智慧観",
+          "yomi": "こうだいちえかん",
+          "start": 111.585,
+          "end": 112.91,
+          "src": "assets/audio/generated/8140ce3e69f04e60bfe9/slow/078.mp3"
+        },
+        "79": {
+          "id": 79,
+          "part": "ge",
+          "kanji": "悲観及慈観",
+          "yomi": "ひかんぎゅうじかん",
+          "start": 112.91,
+          "end": 114.135,
+          "src": "assets/audio/generated/8140ce3e69f04e60bfe9/slow/079.mp3"
+        },
+        "80": {
+          "id": 80,
+          "part": "ge",
+          "kanji": "常願常瞻仰",
+          "yomi": "じょうがんじょうせんごう",
+          "start": 114.135,
+          "end": 115.78,
+          "src": "assets/audio/generated/8140ce3e69f04e60bfe9/slow/080.mp3"
+        },
+        "81": {
+          "id": 81,
+          "part": "ge",
+          "kanji": "無垢清浄光",
+          "yomi": "むくしょうじょうこう",
+          "start": 115.78,
+          "end": 117.14,
+          "src": "assets/audio/generated/8140ce3e69f04e60bfe9/slow/081.mp3"
+        },
+        "82": {
+          "id": 82,
+          "part": "ge",
+          "kanji": "慧日破諸闇",
+          "yomi": "えにちはしょあん",
+          "start": 117.14,
+          "end": 118.44,
+          "src": "assets/audio/generated/8140ce3e69f04e60bfe9/slow/082.mp3"
+        },
+        "83": {
+          "id": 83,
+          "part": "ge",
+          "kanji": "能伏災風火",
+          "yomi": "のうぶくさいふうか",
+          "start": 118.44,
+          "end": 120.11,
+          "src": "assets/audio/generated/8140ce3e69f04e60bfe9/slow/083.mp3"
+        },
+        "84": {
+          "id": 84,
+          "part": "ge",
+          "kanji": "普明照世間",
+          "yomi": "ふみょうしょうせけん",
+          "start": 120.11,
+          "end": 121.455,
+          "src": "assets/audio/generated/8140ce3e69f04e60bfe9/slow/084.mp3"
+        },
+        "85": {
+          "id": 85,
+          "part": "ge",
+          "kanji": "悲体戒雷震",
+          "yomi": "ひたいかいらいしん",
+          "start": 121.455,
+          "end": 122.77,
+          "src": "assets/audio/generated/8140ce3e69f04e60bfe9/slow/085.mp3"
+        },
+        "86": {
+          "id": 86,
+          "part": "ge",
+          "kanji": "慈意妙大雲",
+          "yomi": "じいみょうだいうん",
+          "start": 122.77,
+          "end": 124.12,
+          "src": "assets/audio/generated/8140ce3e69f04e60bfe9/slow/086.mp3"
+        },
+        "87": {
+          "id": 87,
+          "part": "ge",
+          "kanji": "澍甘露法雨",
+          "yomi": "じゅかんろほうう",
+          "start": 124.12,
+          "end": 125.275,
+          "src": "assets/audio/generated/8140ce3e69f04e60bfe9/slow/087.mp3"
+        },
+        "88": {
+          "id": 88,
+          "part": "ge",
+          "kanji": "滅除煩悩焔",
+          "yomi": "めつじょぼんのうえん",
+          "start": 125.275,
+          "end": 126.835,
+          "src": "assets/audio/generated/8140ce3e69f04e60bfe9/slow/088.mp3"
+        },
+        "89": {
+          "id": 89,
+          "part": "ge",
+          "kanji": "諍訟経官処",
+          "yomi": "じょうしょうきょうかんじょ",
+          "start": 126.835,
+          "end": 128.47,
+          "src": "assets/audio/generated/8140ce3e69f04e60bfe9/slow/089.mp3"
+        },
+        "90": {
+          "id": 90,
+          "part": "ge",
+          "kanji": "怖畏軍陣中",
+          "yomi": "ふいぐんじんちゅう",
+          "start": 128.47,
+          "end": 129.775,
+          "src": "assets/audio/generated/8140ce3e69f04e60bfe9/slow/090.mp3"
+        },
+        "91": {
+          "id": 91,
+          "part": "ge",
+          "kanji": "念彼観音力",
+          "yomi": "ねんぴかんのんりき",
+          "start": 129.775,
+          "end": 131.4,
+          "src": "assets/audio/generated/8140ce3e69f04e60bfe9/slow/091.mp3"
+        },
+        "92": {
+          "id": 92,
+          "part": "ge",
+          "kanji": "衆怨悉退散",
+          "yomi": "しゅおんしつたいさん",
+          "start": 131.4,
+          "end": 132.905,
+          "src": "assets/audio/generated/8140ce3e69f04e60bfe9/slow/092.mp3"
+        },
+        "93": {
+          "id": 93,
+          "part": "ge",
+          "kanji": "妙音観世音",
+          "yomi": "みょうおんかんぜおん",
+          "start": 132.905,
+          "end": 134.445,
+          "src": "assets/audio/generated/8140ce3e69f04e60bfe9/slow/093.mp3"
+        },
+        "94": {
+          "id": 94,
+          "part": "ge",
+          "kanji": "梵音海潮音",
+          "yomi": "ぼんのんかいちょうおん",
+          "start": 134.445,
+          "end": 136.045,
+          "src": "assets/audio/generated/8140ce3e69f04e60bfe9/slow/094.mp3"
+        },
+        "95": {
+          "id": 95,
+          "part": "ge",
+          "kanji": "勝彼世間音",
+          "yomi": "しょうひせけんのん",
+          "start": 136.045,
+          "end": 137.375,
+          "src": "assets/audio/generated/8140ce3e69f04e60bfe9/slow/095.mp3"
+        },
+        "96": {
+          "id": 96,
+          "part": "ge",
+          "kanji": "是故須常念",
+          "yomi": "ぜこしゅじょうねん",
+          "start": 137.375,
+          "end": 138.635,
+          "src": "assets/audio/generated/8140ce3e69f04e60bfe9/slow/096.mp3"
+        },
+        "97": {
+          "id": 97,
+          "part": "ge",
+          "kanji": "念念勿生疑",
+          "yomi": "ねんねんもっしょうぎ",
+          "start": 138.635,
+          "end": 140.24,
+          "src": "assets/audio/generated/8140ce3e69f04e60bfe9/slow/097.mp3"
+        },
+        "98": {
+          "id": 98,
+          "part": "ge",
+          "kanji": "観世音浄聖",
+          "yomi": "かんぜおんじょうしょう",
+          "start": 140.24,
+          "end": 141.745,
+          "src": "assets/audio/generated/8140ce3e69f04e60bfe9/slow/098.mp3"
+        },
+        "99": {
+          "id": 99,
+          "part": "ge",
+          "kanji": "於苦悩死厄",
+          "yomi": "おくのうしやく",
+          "start": 141.745,
+          "end": 142.95,
+          "src": "assets/audio/generated/8140ce3e69f04e60bfe9/slow/099.mp3"
+        },
+        "100": {
+          "id": 100,
+          "part": "ge",
+          "kanji": "能為作依怙",
+          "yomi": "のういさえこ",
+          "start": 142.95,
+          "end": 144.165,
+          "src": "assets/audio/generated/8140ce3e69f04e60bfe9/slow/100.mp3"
+        },
+        "101": {
+          "id": 101,
+          "part": "ge",
+          "kanji": "具一切功徳",
+          "yomi": "ぐいっさいくどく",
+          "start": 144.165,
+          "end": 145.485,
+          "src": "assets/audio/generated/8140ce3e69f04e60bfe9/slow/101.mp3"
+        },
+        "102": {
+          "id": 102,
+          "part": "ge",
+          "kanji": "慈眼視衆生",
+          "yomi": "じげんじしゅじょう",
+          "start": 145.485,
+          "end": 146.78,
+          "src": "assets/audio/generated/8140ce3e69f04e60bfe9/slow/102.mp3"
+        },
+        "103": {
+          "id": 103,
+          "part": "ge",
+          "kanji": "福聚海無量",
+          "yomi": "ふくじゅかいむりょう",
+          "start": 146.78,
+          "end": 148.105,
+          "src": "assets/audio/generated/8140ce3e69f04e60bfe9/slow/103.mp3"
+        },
+        "104": {
+          "id": 104,
+          "part": "ge",
+          "kanji": "是故応頂礼",
+          "yomi": "ぜこおうちょうらい",
+          "start": 148.105,
+          "end": 149.415,
+          "src": "assets/audio/generated/8140ce3e69f04e60bfe9/slow/104.mp3"
+        },
+        "105": {
+          "id": 105,
+          "part": "prose",
+          "kanji": "爾時持地菩薩",
+          "yomi": "にじじじぼさつ",
+          "start": 149.415,
+          "end": 150.785,
+          "src": "assets/audio/generated/8140ce3e69f04e60bfe9/slow/105.mp3"
+        },
+        "106": {
+          "id": 106,
+          "part": "prose",
+          "kanji": "即従座起",
+          "yomi": "そくじゅうざき",
+          "start": 150.785,
+          "end": 151.915,
+          "src": "assets/audio/generated/8140ce3e69f04e60bfe9/slow/106.mp3"
+        },
+        "107": {
+          "id": 107,
+          "part": "prose",
+          "kanji": "前白仏言",
+          "yomi": "ぜんびゃくぶつごん",
+          "start": 151.915,
+          "end": 153.34,
+          "src": "assets/audio/generated/8140ce3e69f04e60bfe9/slow/107.mp3"
+        },
+        "108": {
+          "id": 108,
+          "part": "prose",
+          "kanji": "世尊",
+          "yomi": "せそん",
+          "start": 153.34,
+          "end": 154.02,
+          "src": "assets/audio/generated/8140ce3e69f04e60bfe9/slow/108.mp3"
+        },
+        "109": {
+          "id": 109,
+          "part": "prose",
+          "kanji": "若有衆生",
+          "yomi": "にゃくうしゅじょう",
+          "start": 154.02,
+          "end": 155.175,
+          "src": "assets/audio/generated/8140ce3e69f04e60bfe9/slow/109.mp3"
+        },
+        "110": {
+          "id": 110,
+          "part": "prose",
+          "kanji": "聞是観世音菩薩品",
+          "yomi": "もんぜかんぜおんぼさつほん",
+          "start": 155.175,
+          "end": 157.34,
+          "src": "assets/audio/generated/8140ce3e69f04e60bfe9/slow/110.mp3"
+        },
+        "111": {
+          "id": 111,
+          "part": "prose",
+          "kanji": "自在之業",
+          "yomi": "じざいしごう",
+          "start": 157.34,
+          "end": 158.38,
+          "src": "assets/audio/generated/8140ce3e69f04e60bfe9/slow/111.mp3"
+        },
+        "112": {
+          "id": 112,
+          "part": "prose",
+          "kanji": "普門示現",
+          "yomi": "ふもんじげん",
+          "start": 158.38,
+          "end": 159.39,
+          "src": "assets/audio/generated/8140ce3e69f04e60bfe9/slow/112.mp3"
+        },
+        "113": {
+          "id": 113,
+          "part": "prose",
+          "kanji": "神通力者",
+          "yomi": "じんづうりきしゃ",
+          "start": 159.39,
+          "end": 160.565,
+          "src": "assets/audio/generated/8140ce3e69f04e60bfe9/slow/113.mp3"
+        },
+        "114": {
+          "id": 114,
+          "part": "prose",
+          "kanji": "当知是人",
+          "yomi": "とうちぜにん",
+          "start": 160.565,
+          "end": 161.62,
+          "src": "assets/audio/generated/8140ce3e69f04e60bfe9/slow/114.mp3"
+        },
+        "115": {
+          "id": 115,
+          "part": "prose",
+          "kanji": "功徳不少",
+          "yomi": "くどくふしょう",
+          "start": 161.62,
+          "end": 162.7,
+          "src": "assets/audio/generated/8140ce3e69f04e60bfe9/slow/115.mp3"
+        },
+        "116": {
+          "id": 116,
+          "part": "prose",
+          "kanji": "仏説是普門品時",
+          "yomi": "ぶっせつぜふもんぼんじ",
+          "start": 162.7,
+          "end": 164.61,
+          "src": "assets/audio/generated/8140ce3e69f04e60bfe9/slow/116.mp3"
+        },
+        "117": {
+          "id": 117,
+          "part": "prose",
+          "kanji": "衆中八万四千衆生",
+          "yomi": "しゅちゅうはちまんしせんしゅじょう",
+          "start": 164.61,
+          "end": 166.77,
+          "src": "assets/audio/generated/8140ce3e69f04e60bfe9/slow/117.mp3"
+        },
+        "118": {
+          "id": 118,
+          "part": "prose",
+          "kanji": "皆発無等等",
+          "yomi": "かいほつむとうどう",
+          "start": 166.77,
+          "end": 168.32,
+          "src": "assets/audio/generated/8140ce3e69f04e60bfe9/slow/118.mp3"
+        },
+        "119": {
+          "id": 119,
+          "part": "prose",
+          "kanji": "阿耨多羅三藐三菩提心",
+          "yomi": "あのくたらさんみゃくさんぼだいしん",
+          "start": 168.32,
+          "end": 170.86,
+          "src": "assets/audio/generated/8140ce3e69f04e60bfe9/slow/119.mp3"
+        }
+      },
+      "gapSeconds": 0,
+      "silenceTrim": {
+        "thresholdDb": -52,
+        "windowMs": 5,
+        "paddingMs": 5
+      }
+    },
+    "continuous": {
+      "label": "通し読み",
+      "src": "assets/audio/generated/283ee420d2752e06bdc5/continuous/full.mp3",
+      "phrases": {
+        "1": {
+          "id": 1,
+          "part": "ge",
+          "kanji": "世尊妙相具",
+          "yomi": "せそんみょうそうぐ",
+          "start": 0.0,
+          "end": 0.975,
+          "src": "assets/audio/generated/283ee420d2752e06bdc5/continuous/001.mp3"
+        },
+        "2": {
+          "id": 2,
+          "part": "ge",
+          "kanji": "我今重問彼",
+          "yomi": "がこんじゅうもんぴ",
+          "start": 0.975,
+          "end": 2.005,
+          "src": "assets/audio/generated/283ee420d2752e06bdc5/continuous/002.mp3"
+        },
+        "3": {
+          "id": 3,
+          "part": "ge",
+          "kanji": "仏子何因縁",
+          "yomi": "ぶっしがいんねん",
+          "start": 2.005,
+          "end": 2.89,
+          "src": "assets/audio/generated/283ee420d2752e06bdc5/continuous/003.mp3"
+        },
+        "4": {
+          "id": 4,
+          "part": "ge",
+          "kanji": "名為観世音",
+          "yomi": "みょういかんぜおん",
+          "start": 2.89,
+          "end": 3.855,
+          "src": "assets/audio/generated/283ee420d2752e06bdc5/continuous/004.mp3"
+        },
+        "5": {
+          "id": 5,
+          "part": "ge",
+          "kanji": "具足妙相尊",
+          "yomi": "ぐそくみょうそうそん",
+          "start": 3.855,
+          "end": 4.935,
+          "src": "assets/audio/generated/283ee420d2752e06bdc5/continuous/005.mp3"
+        },
+        "6": {
+          "id": 6,
+          "part": "ge",
+          "kanji": "偈答無尽意",
+          "yomi": "げとうむじんに",
+          "start": 4.935,
+          "end": 5.83,
+          "src": "assets/audio/generated/283ee420d2752e06bdc5/continuous/006.mp3"
+        },
+        "7": {
+          "id": 7,
+          "part": "ge",
+          "kanji": "汝聴観音行",
+          "yomi": "にょちょうかんのんぎょう",
+          "start": 5.83,
+          "end": 6.9,
+          "src": "assets/audio/generated/283ee420d2752e06bdc5/continuous/007.mp3"
+        },
+        "8": {
+          "id": 8,
+          "part": "ge",
+          "kanji": "善応諸方所",
+          "yomi": "ぜんのうしょほうじょ",
+          "start": 6.9,
+          "end": 7.94,
+          "src": "assets/audio/generated/283ee420d2752e06bdc5/continuous/008.mp3"
+        },
+        "9": {
+          "id": 9,
+          "part": "ge",
+          "kanji": "弘誓深如海",
+          "yomi": "ぐぜいじんにょかい",
+          "start": 7.94,
+          "end": 8.96,
+          "src": "assets/audio/generated/283ee420d2752e06bdc5/continuous/009.mp3"
+        },
+        "10": {
+          "id": 10,
+          "part": "ge",
+          "kanji": "歴劫不思議",
+          "yomi": "りゃっこうふしぎ",
+          "start": 8.96,
+          "end": 9.9,
+          "src": "assets/audio/generated/283ee420d2752e06bdc5/continuous/010.mp3"
+        },
+        "11": {
+          "id": 11,
+          "part": "ge",
+          "kanji": "侍多千億仏",
+          "yomi": "じたせんのくぶつ",
+          "start": 9.9,
+          "end": 10.92,
+          "src": "assets/audio/generated/283ee420d2752e06bdc5/continuous/011.mp3"
+        },
+        "12": {
+          "id": 12,
+          "part": "ge",
+          "kanji": "発大清浄願",
+          "yomi": "ほつだいしょうじょうがん",
+          "start": 10.92,
+          "end": 11.99,
+          "src": "assets/audio/generated/283ee420d2752e06bdc5/continuous/012.mp3"
+        },
+        "13": {
+          "id": 13,
+          "part": "ge",
+          "kanji": "我為汝略説",
+          "yomi": "がいにょりゃくせつ",
+          "start": 11.99,
+          "end": 13.015,
+          "src": "assets/audio/generated/283ee420d2752e06bdc5/continuous/013.mp3"
+        },
+        "14": {
+          "id": 14,
+          "part": "ge",
+          "kanji": "聞名及見身",
+          "yomi": "もんみょうぎゅうけんしん",
+          "start": 13.015,
+          "end": 14.23,
+          "src": "assets/audio/generated/283ee420d2752e06bdc5/continuous/014.mp3"
+        },
+        "15": {
+          "id": 15,
+          "part": "ge",
+          "kanji": "心念不空過",
+          "yomi": "しんねんぷくうか",
+          "start": 14.23,
+          "end": 15.265,
+          "src": "assets/audio/generated/283ee420d2752e06bdc5/continuous/015.mp3"
+        },
+        "16": {
+          "id": 16,
+          "part": "ge",
+          "kanji": "能滅諸有苦",
+          "yomi": "のうめつしょうく",
+          "start": 15.265,
+          "end": 16.12,
+          "src": "assets/audio/generated/283ee420d2752e06bdc5/continuous/016.mp3"
+        },
+        "17": {
+          "id": 17,
+          "part": "ge",
+          "kanji": "仮使興害意",
+          "yomi": "けしこうがいい",
+          "start": 16.12,
+          "end": 16.915,
+          "src": "assets/audio/generated/283ee420d2752e06bdc5/continuous/017.mp3"
+        },
+        "18": {
+          "id": 18,
+          "part": "ge",
+          "kanji": "推落大火坑",
+          "yomi": "すいらくだいかきょう",
+          "start": 16.915,
+          "end": 17.975,
+          "src": "assets/audio/generated/283ee420d2752e06bdc5/continuous/018.mp3"
+        },
+        "19": {
+          "id": 19,
+          "part": "ge",
+          "kanji": "念彼観音力",
+          "yomi": "ねんぴかんのんりき",
+          "start": 17.975,
+          "end": 19.065,
+          "src": "assets/audio/generated/283ee420d2752e06bdc5/continuous/019.mp3"
+        },
+        "20": {
+          "id": 20,
+          "part": "ge",
+          "kanji": "火坑変成池",
+          "yomi": "かきょうへんじょうち",
+          "start": 19.065,
+          "end": 20.11,
+          "src": "assets/audio/generated/283ee420d2752e06bdc5/continuous/020.mp3"
+        },
+        "21": {
+          "id": 21,
+          "part": "ge",
+          "kanji": "或漂流巨海",
+          "yomi": "わくひょうるこかい",
+          "start": 20.11,
+          "end": 21.06,
+          "src": "assets/audio/generated/283ee420d2752e06bdc5/continuous/021.mp3"
+        },
+        "22": {
+          "id": 22,
+          "part": "ge",
+          "kanji": "竜魚諸鬼難",
+          "yomi": "りゅうごしょきなん",
+          "start": 21.06,
+          "end": 21.92,
+          "src": "assets/audio/generated/283ee420d2752e06bdc5/continuous/022.mp3"
+        },
+        "23": {
+          "id": 23,
+          "part": "ge",
+          "kanji": "念彼観音力",
+          "yomi": "ねんぴかんのんりき",
+          "start": 21.92,
+          "end": 23.01,
+          "src": "assets/audio/generated/283ee420d2752e06bdc5/continuous/023.mp3"
+        },
+        "24": {
+          "id": 24,
+          "part": "ge",
+          "kanji": "波浪不能没",
+          "yomi": "はろうふのうもつ",
+          "start": 23.01,
+          "end": 24.005,
+          "src": "assets/audio/generated/283ee420d2752e06bdc5/continuous/024.mp3"
+        },
+        "25": {
+          "id": 25,
+          "part": "ge",
+          "kanji": "或在須弥峰",
+          "yomi": "わくざいしゅみぶ",
+          "start": 24.005,
+          "end": 24.87,
+          "src": "assets/audio/generated/283ee420d2752e06bdc5/continuous/025.mp3"
+        },
+        "26": {
+          "id": 26,
+          "part": "ge",
+          "kanji": "為人所推堕",
+          "yomi": "いにんしょすいだ",
+          "start": 24.87,
+          "end": 25.71,
+          "src": "assets/audio/generated/283ee420d2752e06bdc5/continuous/026.mp3"
+        },
+        "27": {
+          "id": 27,
+          "part": "ge",
+          "kanji": "念彼観音力",
+          "yomi": "ねんぴかんのんりき",
+          "start": 25.71,
+          "end": 26.8,
+          "src": "assets/audio/generated/283ee420d2752e06bdc5/continuous/027.mp3"
+        },
+        "28": {
+          "id": 28,
+          "part": "ge",
+          "kanji": "如日虚空住",
+          "yomi": "にょにちこくうじゅう",
+          "start": 26.8,
+          "end": 27.78,
+          "src": "assets/audio/generated/283ee420d2752e06bdc5/continuous/028.mp3"
+        },
+        "29": {
+          "id": 29,
+          "part": "ge",
+          "kanji": "或被悪人逐",
+          "yomi": "わくひあくにんちく",
+          "start": 27.78,
+          "end": 28.93,
+          "src": "assets/audio/generated/283ee420d2752e06bdc5/continuous/029.mp3"
+        },
+        "30": {
+          "id": 30,
+          "part": "ge",
+          "kanji": "堕落金剛山",
+          "yomi": "だらくこんごうせん",
+          "start": 28.93,
+          "end": 30.0,
+          "src": "assets/audio/generated/283ee420d2752e06bdc5/continuous/030.mp3"
+        },
+        "31": {
+          "id": 31,
+          "part": "ge",
+          "kanji": "念彼観音力",
+          "yomi": "ねんぴかんのんりき",
+          "start": 30.0,
+          "end": 31.09,
+          "src": "assets/audio/generated/283ee420d2752e06bdc5/continuous/031.mp3"
+        },
+        "32": {
+          "id": 32,
+          "part": "ge",
+          "kanji": "不能損一毛",
+          "yomi": "ふのうそんいちもう",
+          "start": 31.09,
+          "end": 32.06,
+          "src": "assets/audio/generated/283ee420d2752e06bdc5/continuous/032.mp3"
+        },
+        "33": {
+          "id": 33,
+          "part": "ge",
+          "kanji": "或値怨賊繞",
+          "yomi": "わくちおんぞくにょう",
+          "start": 32.06,
+          "end": 33.16,
+          "src": "assets/audio/generated/283ee420d2752e06bdc5/continuous/033.mp3"
+        },
+        "34": {
+          "id": 34,
+          "part": "ge",
+          "kanji": "各執刀加害",
+          "yomi": "かくしゅうとうかがい",
+          "start": 33.16,
+          "end": 34.17,
+          "src": "assets/audio/generated/283ee420d2752e06bdc5/continuous/034.mp3"
+        },
+        "35": {
+          "id": 35,
+          "part": "ge",
+          "kanji": "念彼観音力",
+          "yomi": "ねんぴかんのんりき",
+          "start": 34.17,
+          "end": 35.26,
+          "src": "assets/audio/generated/283ee420d2752e06bdc5/continuous/035.mp3"
+        },
+        "36": {
+          "id": 36,
+          "part": "ge",
+          "kanji": "咸即起慈心",
+          "yomi": "げんそくきじしん",
+          "start": 35.26,
+          "end": 36.27,
+          "src": "assets/audio/generated/283ee420d2752e06bdc5/continuous/036.mp3"
+        },
+        "37": {
+          "id": 37,
+          "part": "ge",
+          "kanji": "或遭王難苦",
+          "yomi": "わくそうおうなんく",
+          "start": 36.27,
+          "end": 37.265,
+          "src": "assets/audio/generated/283ee420d2752e06bdc5/continuous/037.mp3"
+        },
+        "38": {
+          "id": 38,
+          "part": "ge",
+          "kanji": "臨刑欲寿終",
+          "yomi": "りんぎょうよくじゅじゅう",
+          "start": 37.265,
+          "end": 38.3,
+          "src": "assets/audio/generated/283ee420d2752e06bdc5/continuous/038.mp3"
+        },
+        "39": {
+          "id": 39,
+          "part": "ge",
+          "kanji": "念彼観音力",
+          "yomi": "ねんぴかんのんりき",
+          "start": 38.3,
+          "end": 39.39,
+          "src": "assets/audio/generated/283ee420d2752e06bdc5/continuous/039.mp3"
+        },
+        "40": {
+          "id": 40,
+          "part": "ge",
+          "kanji": "刀尋段段壊",
+          "yomi": "とうじんだんだんえ",
+          "start": 39.39,
+          "end": 40.405,
+          "src": "assets/audio/generated/283ee420d2752e06bdc5/continuous/040.mp3"
+        },
+        "41": {
+          "id": 41,
+          "part": "ge",
+          "kanji": "或囚禁枷鎖",
+          "yomi": "わくしゅうきんかさ",
+          "start": 40.405,
+          "end": 41.4,
+          "src": "assets/audio/generated/283ee420d2752e06bdc5/continuous/041.mp3"
+        },
+        "42": {
+          "id": 42,
+          "part": "ge",
+          "kanji": "手足被杻械",
+          "yomi": "しゅそくひちゅうかい",
+          "start": 41.4,
+          "end": 42.38,
+          "src": "assets/audio/generated/283ee420d2752e06bdc5/continuous/042.mp3"
+        },
+        "43": {
+          "id": 43,
+          "part": "ge",
+          "kanji": "念彼観音力",
+          "yomi": "ねんぴかんのんりき",
+          "start": 42.38,
+          "end": 43.47,
+          "src": "assets/audio/generated/283ee420d2752e06bdc5/continuous/043.mp3"
+        },
+        "44": {
+          "id": 44,
+          "part": "ge",
+          "kanji": "釈然得解脱",
+          "yomi": "しゃくねんとくげだつ",
+          "start": 43.47,
+          "end": 44.59,
+          "src": "assets/audio/generated/283ee420d2752e06bdc5/continuous/044.mp3"
+        },
+        "45": {
+          "id": 45,
+          "part": "ge",
+          "kanji": "呪詛諸毒薬",
+          "yomi": "しゅそしょどくやく",
+          "start": 44.59,
+          "end": 45.475,
+          "src": "assets/audio/generated/283ee420d2752e06bdc5/continuous/045.mp3"
+        },
+        "46": {
+          "id": 46,
+          "part": "ge",
+          "kanji": "所欲害身者",
+          "yomi": "しょよくがいしんしゃ",
+          "start": 45.475,
+          "end": 46.505,
+          "src": "assets/audio/generated/283ee420d2752e06bdc5/continuous/046.mp3"
+        },
+        "47": {
+          "id": 47,
+          "part": "ge",
+          "kanji": "念彼観音力",
+          "yomi": "ねんぴかんのんりき",
+          "start": 46.505,
+          "end": 47.595,
+          "src": "assets/audio/generated/283ee420d2752e06bdc5/continuous/047.mp3"
+        },
+        "48": {
+          "id": 48,
+          "part": "ge",
+          "kanji": "還著於本人",
+          "yomi": "げんじゃくおほんにん",
+          "start": 47.595,
+          "end": 48.66,
+          "src": "assets/audio/generated/283ee420d2752e06bdc5/continuous/048.mp3"
+        },
+        "49": {
+          "id": 49,
+          "part": "ge",
+          "kanji": "或遇悪羅刹",
+          "yomi": "わくぐうあくらせつ",
+          "start": 48.66,
+          "end": 49.815,
+          "src": "assets/audio/generated/283ee420d2752e06bdc5/continuous/049.mp3"
+        },
+        "50": {
+          "id": 50,
+          "part": "ge",
+          "kanji": "毒竜諸鬼等",
+          "yomi": "どくりゅうしょきとう",
+          "start": 49.815,
+          "end": 50.745,
+          "src": "assets/audio/generated/283ee420d2752e06bdc5/continuous/050.mp3"
+        },
+        "51": {
+          "id": 51,
+          "part": "ge",
+          "kanji": "念彼観音力",
+          "yomi": "ねんぴかんのんりき",
+          "start": 50.745,
+          "end": 51.835,
+          "src": "assets/audio/generated/283ee420d2752e06bdc5/continuous/051.mp3"
+        },
+        "52": {
+          "id": 52,
+          "part": "ge",
+          "kanji": "時悉不敢害",
+          "yomi": "じしつふかんがい",
+          "start": 51.835,
+          "end": 52.75,
+          "src": "assets/audio/generated/283ee420d2752e06bdc5/continuous/052.mp3"
+        },
+        "53": {
+          "id": 53,
+          "part": "ge",
+          "kanji": "若悪獣囲繞",
+          "yomi": "にゃくあくじゅういにょう",
+          "start": 52.75,
+          "end": 53.83,
+          "src": "assets/audio/generated/283ee420d2752e06bdc5/continuous/053.mp3"
+        },
+        "54": {
+          "id": 54,
+          "part": "ge",
+          "kanji": "利牙爪可怖",
+          "yomi": "りげそうかふ",
+          "start": 53.83,
+          "end": 54.645,
+          "src": "assets/audio/generated/283ee420d2752e06bdc5/continuous/054.mp3"
+        },
+        "55": {
+          "id": 55,
+          "part": "ge",
+          "kanji": "念彼観音力",
+          "yomi": "ねんぴかんのんりき",
+          "start": 54.645,
+          "end": 55.735,
+          "src": "assets/audio/generated/283ee420d2752e06bdc5/continuous/055.mp3"
+        },
+        "56": {
+          "id": 56,
+          "part": "ge",
+          "kanji": "疾走無辺方",
+          "yomi": "しっそうむへんぼう",
+          "start": 55.735,
+          "end": 56.835,
+          "src": "assets/audio/generated/283ee420d2752e06bdc5/continuous/056.mp3"
+        },
+        "57": {
+          "id": 57,
+          "part": "ge",
+          "kanji": "蚖蛇及蝮蝎",
+          "yomi": "がんじゃぎゅうふくかつ",
+          "start": 56.835,
+          "end": 57.985,
+          "src": "assets/audio/generated/283ee420d2752e06bdc5/continuous/057.mp3"
+        },
+        "58": {
+          "id": 58,
+          "part": "ge",
+          "kanji": "気毒煙火燃",
+          "yomi": "けどくえんかねん",
+          "start": 57.985,
+          "end": 58.925,
+          "src": "assets/audio/generated/283ee420d2752e06bdc5/continuous/058.mp3"
+        },
+        "59": {
+          "id": 59,
+          "part": "ge",
+          "kanji": "念彼観音力",
+          "yomi": "ねんぴかんのんりき",
+          "start": 58.925,
+          "end": 60.015,
+          "src": "assets/audio/generated/283ee420d2752e06bdc5/continuous/059.mp3"
+        },
+        "60": {
+          "id": 60,
+          "part": "ge",
+          "kanji": "尋声自回去",
+          "yomi": "じんしょうじえこ",
+          "start": 60.015,
+          "end": 60.96,
+          "src": "assets/audio/generated/283ee420d2752e06bdc5/continuous/060.mp3"
+        },
+        "61": {
+          "id": 61,
+          "part": "ge",
+          "kanji": "雲雷鼓掣電",
+          "yomi": "うんらいくせいでん",
+          "start": 60.96,
+          "end": 61.91,
+          "src": "assets/audio/generated/283ee420d2752e06bdc5/continuous/061.mp3"
+        },
+        "62": {
+          "id": 62,
+          "part": "ge",
+          "kanji": "降雹澍大雨",
+          "yomi": "ごうばくじゅだいう",
+          "start": 61.91,
+          "end": 62.8,
+          "src": "assets/audio/generated/283ee420d2752e06bdc5/continuous/062.mp3"
+        },
+        "63": {
+          "id": 63,
+          "part": "ge",
+          "kanji": "念彼観音力",
+          "yomi": "ねんぴかんのんりき",
+          "start": 62.8,
+          "end": 63.885,
+          "src": "assets/audio/generated/283ee420d2752e06bdc5/continuous/063.mp3"
+        },
+        "64": {
+          "id": 64,
+          "part": "ge",
+          "kanji": "応時得消散",
+          "yomi": "おうじとくしょうさん",
+          "start": 63.885,
+          "end": 64.91,
+          "src": "assets/audio/generated/283ee420d2752e06bdc5/continuous/064.mp3"
+        },
+        "65": {
+          "id": 65,
+          "part": "ge",
+          "kanji": "衆生被困厄",
+          "yomi": "しゅじょうひこんやく",
+          "start": 64.91,
+          "end": 65.885,
+          "src": "assets/audio/generated/283ee420d2752e06bdc5/continuous/065.mp3"
+        },
+        "66": {
+          "id": 66,
+          "part": "ge",
+          "kanji": "無量苦逼身",
+          "yomi": "むりょうくひっしん",
+          "start": 65.885,
+          "end": 66.915,
+          "src": "assets/audio/generated/283ee420d2752e06bdc5/continuous/066.mp3"
+        },
+        "67": {
+          "id": 67,
+          "part": "ge",
+          "kanji": "観音妙智力",
+          "yomi": "かんのんみょうちりき",
+          "start": 66.915,
+          "end": 68.015,
+          "src": "assets/audio/generated/283ee420d2752e06bdc5/continuous/067.mp3"
+        },
+        "68": {
+          "id": 68,
+          "part": "ge",
+          "kanji": "能救世間苦",
+          "yomi": "のうくせけんく",
+          "start": 68.015,
+          "end": 68.915,
+          "src": "assets/audio/generated/283ee420d2752e06bdc5/continuous/068.mp3"
+        },
+        "69": {
+          "id": 69,
+          "part": "ge",
+          "kanji": "具足神通力",
+          "yomi": "ぐそくじんづうりき",
+          "start": 68.915,
+          "end": 70.01,
+          "src": "assets/audio/generated/283ee420d2752e06bdc5/continuous/069.mp3"
+        },
+        "70": {
+          "id": 70,
+          "part": "ge",
+          "kanji": "広修智方便",
+          "yomi": "こうしゅちほうべん",
+          "start": 70.01,
+          "end": 70.965,
+          "src": "assets/audio/generated/283ee420d2752e06bdc5/continuous/070.mp3"
+        },
+        "71": {
+          "id": 71,
+          "part": "ge",
+          "kanji": "十方諸国土",
+          "yomi": "じっぽうしょこくど",
+          "start": 70.965,
+          "end": 72.0,
+          "src": "assets/audio/generated/283ee420d2752e06bdc5/continuous/071.mp3"
+        },
+        "72": {
+          "id": 72,
+          "part": "ge",
+          "kanji": "無刹不現身",
+          "yomi": "むせつふげんしん",
+          "start": 72.0,
+          "end": 73.07,
+          "src": "assets/audio/generated/283ee420d2752e06bdc5/continuous/072.mp3"
+        },
+        "73": {
+          "id": 73,
+          "part": "ge",
+          "kanji": "種種諸悪趣",
+          "yomi": "しゅじゅしょあくしゅ",
+          "start": 73.07,
+          "end": 73.88,
+          "src": "assets/audio/generated/283ee420d2752e06bdc5/continuous/073.mp3"
+        },
+        "74": {
+          "id": 74,
+          "part": "ge",
+          "kanji": "地獄鬼畜生",
+          "yomi": "じごくきちくしょう",
+          "start": 73.88,
+          "end": 74.89,
+          "src": "assets/audio/generated/283ee420d2752e06bdc5/continuous/074.mp3"
+        },
+        "75": {
+          "id": 75,
+          "part": "ge",
+          "kanji": "生老病死苦",
+          "yomi": "しょうろうびょうしく",
+          "start": 74.89,
+          "end": 75.875,
+          "src": "assets/audio/generated/283ee420d2752e06bdc5/continuous/075.mp3"
+        },
+        "76": {
+          "id": 76,
+          "part": "ge",
+          "kanji": "以漸悉令滅",
+          "yomi": "いぜんしつりょうめつ",
+          "start": 75.875,
+          "end": 76.95,
+          "src": "assets/audio/generated/283ee420d2752e06bdc5/continuous/076.mp3"
+        },
+        "77": {
+          "id": 77,
+          "part": "ge",
+          "kanji": "真観清浄観",
+          "yomi": "しんかんしょうじょうかん",
+          "start": 76.95,
+          "end": 78.155,
+          "src": "assets/audio/generated/283ee420d2752e06bdc5/continuous/077.mp3"
+        },
+        "78": {
+          "id": 78,
+          "part": "ge",
+          "kanji": "広大智慧観",
+          "yomi": "こうだいちえかん",
+          "start": 78.155,
+          "end": 79.065,
+          "src": "assets/audio/generated/283ee420d2752e06bdc5/continuous/078.mp3"
+        },
+        "79": {
+          "id": 79,
+          "part": "ge",
+          "kanji": "悲観及慈観",
+          "yomi": "ひかんぎゅうじかん",
+          "start": 79.065,
+          "end": 79.97,
+          "src": "assets/audio/generated/283ee420d2752e06bdc5/continuous/079.mp3"
+        },
+        "80": {
+          "id": 80,
+          "part": "ge",
+          "kanji": "常願常瞻仰",
+          "yomi": "じょうがんじょうせんごう",
+          "start": 79.97,
+          "end": 81.145,
+          "src": "assets/audio/generated/283ee420d2752e06bdc5/continuous/080.mp3"
+        },
+        "81": {
+          "id": 81,
+          "part": "ge",
+          "kanji": "無垢清浄光",
+          "yomi": "むくしょうじょうこう",
+          "start": 81.145,
+          "end": 82.11,
+          "src": "assets/audio/generated/283ee420d2752e06bdc5/continuous/081.mp3"
+        },
+        "82": {
+          "id": 82,
+          "part": "ge",
+          "kanji": "慧日破諸闇",
+          "yomi": "えにちはしょあん",
+          "start": 82.11,
+          "end": 83.045,
+          "src": "assets/audio/generated/283ee420d2752e06bdc5/continuous/082.mp3"
+        },
+        "83": {
+          "id": 83,
+          "part": "ge",
+          "kanji": "能伏災風火",
+          "yomi": "のうぶくさいふうか",
+          "start": 83.045,
+          "end": 84.2,
+          "src": "assets/audio/generated/283ee420d2752e06bdc5/continuous/083.mp3"
+        },
+        "84": {
+          "id": 84,
+          "part": "ge",
+          "kanji": "普明照世間",
+          "yomi": "ふみょうしょうせけん",
+          "start": 84.2,
+          "end": 85.145,
+          "src": "assets/audio/generated/283ee420d2752e06bdc5/continuous/084.mp3"
+        },
+        "85": {
+          "id": 85,
+          "part": "ge",
+          "kanji": "悲体戒雷震",
+          "yomi": "ひたいかいらいしん",
+          "start": 85.145,
+          "end": 86.1,
+          "src": "assets/audio/generated/283ee420d2752e06bdc5/continuous/085.mp3"
+        },
+        "86": {
+          "id": 86,
+          "part": "ge",
+          "kanji": "慈意妙大雲",
+          "yomi": "じいみょうだいうん",
+          "start": 86.1,
+          "end": 87.07,
+          "src": "assets/audio/generated/283ee420d2752e06bdc5/continuous/086.mp3"
+        },
+        "87": {
+          "id": 87,
+          "part": "ge",
+          "kanji": "澍甘露法雨",
+          "yomi": "じゅかんろほうう",
+          "start": 87.07,
+          "end": 87.885,
+          "src": "assets/audio/generated/283ee420d2752e06bdc5/continuous/087.mp3"
+        },
+        "88": {
+          "id": 88,
+          "part": "ge",
+          "kanji": "滅除煩悩焔",
+          "yomi": "めつじょぼんのうえん",
+          "start": 87.885,
+          "end": 88.995,
+          "src": "assets/audio/generated/283ee420d2752e06bdc5/continuous/088.mp3"
+        },
+        "89": {
+          "id": 89,
+          "part": "ge",
+          "kanji": "諍訟経官処",
+          "yomi": "じょうしょうきょうかんじょ",
+          "start": 88.995,
+          "end": 90.145,
+          "src": "assets/audio/generated/283ee420d2752e06bdc5/continuous/089.mp3"
+        },
+        "90": {
+          "id": 90,
+          "part": "ge",
+          "kanji": "怖畏軍陣中",
+          "yomi": "ふいぐんじんちゅう",
+          "start": 90.145,
+          "end": 91.035,
+          "src": "assets/audio/generated/283ee420d2752e06bdc5/continuous/090.mp3"
+        },
+        "91": {
+          "id": 91,
+          "part": "ge",
+          "kanji": "念彼観音力",
+          "yomi": "ねんぴかんのんりき",
+          "start": 91.035,
+          "end": 92.125,
+          "src": "assets/audio/generated/283ee420d2752e06bdc5/continuous/091.mp3"
+        },
+        "92": {
+          "id": 92,
+          "part": "ge",
+          "kanji": "衆怨悉退散",
+          "yomi": "しゅおんしつたいさん",
+          "start": 92.125,
+          "end": 93.15,
+          "src": "assets/audio/generated/283ee420d2752e06bdc5/continuous/092.mp3"
+        },
+        "93": {
+          "id": 93,
+          "part": "ge",
+          "kanji": "妙音観世音",
+          "yomi": "みょうおんかんぜおん",
+          "start": 93.15,
+          "end": 94.235,
+          "src": "assets/audio/generated/283ee420d2752e06bdc5/continuous/093.mp3"
+        },
+        "94": {
+          "id": 94,
+          "part": "ge",
+          "kanji": "梵音海潮音",
+          "yomi": "ぼんのんかいちょうおん",
+          "start": 94.235,
+          "end": 95.355,
+          "src": "assets/audio/generated/283ee420d2752e06bdc5/continuous/094.mp3"
+        },
+        "95": {
+          "id": 95,
+          "part": "ge",
+          "kanji": "勝彼世間音",
+          "yomi": "しょうひせけんのん",
+          "start": 95.355,
+          "end": 96.315,
+          "src": "assets/audio/generated/283ee420d2752e06bdc5/continuous/095.mp3"
+        },
+        "96": {
+          "id": 96,
+          "part": "ge",
+          "kanji": "是故須常念",
+          "yomi": "ぜこしゅじょうねん",
+          "start": 96.315,
+          "end": 97.19,
+          "src": "assets/audio/generated/283ee420d2752e06bdc5/continuous/096.mp3"
+        },
+        "97": {
+          "id": 97,
+          "part": "ge",
+          "kanji": "念念勿生疑",
+          "yomi": "ねんねんもっしょうぎ",
+          "start": 97.19,
+          "end": 98.275,
+          "src": "assets/audio/generated/283ee420d2752e06bdc5/continuous/097.mp3"
+        },
+        "98": {
+          "id": 98,
+          "part": "ge",
+          "kanji": "観世音浄聖",
+          "yomi": "かんぜおんじょうしょう",
+          "start": 98.275,
+          "end": 99.35,
+          "src": "assets/audio/generated/283ee420d2752e06bdc5/continuous/098.mp3"
+        },
+        "99": {
+          "id": 99,
+          "part": "ge",
+          "kanji": "於苦悩死厄",
+          "yomi": "おくのうしやく",
+          "start": 99.35,
+          "end": 100.215,
+          "src": "assets/audio/generated/283ee420d2752e06bdc5/continuous/099.mp3"
+        },
+        "100": {
+          "id": 100,
+          "part": "ge",
+          "kanji": "能為作依怙",
+          "yomi": "のういさえこ",
+          "start": 100.215,
+          "end": 101.06,
+          "src": "assets/audio/generated/283ee420d2752e06bdc5/continuous/100.mp3"
+        },
+        "101": {
+          "id": 101,
+          "part": "ge",
+          "kanji": "具一切功徳",
+          "yomi": "ぐいっさいくどく",
+          "start": 101.06,
+          "end": 101.96,
+          "src": "assets/audio/generated/283ee420d2752e06bdc5/continuous/101.mp3"
+        },
+        "102": {
+          "id": 102,
+          "part": "ge",
+          "kanji": "慈眼視衆生",
+          "yomi": "じげんじしゅじょう",
+          "start": 101.96,
+          "end": 102.83,
+          "src": "assets/audio/generated/283ee420d2752e06bdc5/continuous/102.mp3"
+        },
+        "103": {
+          "id": 103,
+          "part": "ge",
+          "kanji": "福聚海無量",
+          "yomi": "ふくじゅかいむりょう",
+          "start": 102.83,
+          "end": 103.755,
+          "src": "assets/audio/generated/283ee420d2752e06bdc5/continuous/103.mp3"
+        },
+        "104": {
+          "id": 104,
+          "part": "ge",
+          "kanji": "是故応頂礼",
+          "yomi": "ぜこおうちょうらい",
+          "start": 103.755,
+          "end": 104.645,
+          "src": "assets/audio/generated/283ee420d2752e06bdc5/continuous/104.mp3"
+        },
+        "105": {
+          "id": 105,
+          "part": "prose",
+          "kanji": "爾時持地菩薩",
+          "yomi": "にじじじぼさつ",
+          "start": 104.645,
+          "end": 105.61,
+          "src": "assets/audio/generated/283ee420d2752e06bdc5/continuous/105.mp3"
+        },
+        "106": {
+          "id": 106,
+          "part": "prose",
+          "kanji": "即従座起",
+          "yomi": "そくじゅうざき",
+          "start": 105.61,
+          "end": 106.4,
+          "src": "assets/audio/generated/283ee420d2752e06bdc5/continuous/106.mp3"
+        },
+        "107": {
+          "id": 107,
+          "part": "prose",
+          "kanji": "前白仏言",
+          "yomi": "ぜんびゃくぶつごん",
+          "start": 106.4,
+          "end": 107.41,
+          "src": "assets/audio/generated/283ee420d2752e06bdc5/continuous/107.mp3"
+        },
+        "108": {
+          "id": 108,
+          "part": "prose",
+          "kanji": "世尊",
+          "yomi": "せそん",
+          "start": 107.41,
+          "end": 107.885,
+          "src": "assets/audio/generated/283ee420d2752e06bdc5/continuous/108.mp3"
+        },
+        "109": {
+          "id": 109,
+          "part": "prose",
+          "kanji": "若有衆生",
+          "yomi": "にゃくうしゅじょう",
+          "start": 107.885,
+          "end": 108.68,
+          "src": "assets/audio/generated/283ee420d2752e06bdc5/continuous/109.mp3"
+        },
+        "110": {
+          "id": 110,
+          "part": "prose",
+          "kanji": "聞是観世音菩薩品",
+          "yomi": "もんぜかんぜおんぼさつほん",
+          "start": 108.68,
+          "end": 110.2,
+          "src": "assets/audio/generated/283ee420d2752e06bdc5/continuous/110.mp3"
+        },
+        "111": {
+          "id": 111,
+          "part": "prose",
+          "kanji": "自在之業",
+          "yomi": "じざいしごう",
+          "start": 110.2,
+          "end": 110.935,
+          "src": "assets/audio/generated/283ee420d2752e06bdc5/continuous/111.mp3"
+        },
+        "112": {
+          "id": 112,
+          "part": "prose",
+          "kanji": "普門示現",
+          "yomi": "ふもんじげん",
+          "start": 110.935,
+          "end": 111.645,
+          "src": "assets/audio/generated/283ee420d2752e06bdc5/continuous/112.mp3"
+        },
+        "113": {
+          "id": 113,
+          "part": "prose",
+          "kanji": "神通力者",
+          "yomi": "じんづうりきしゃ",
+          "start": 111.645,
+          "end": 112.53,
+          "src": "assets/audio/generated/283ee420d2752e06bdc5/continuous/113.mp3"
+        },
+        "114": {
+          "id": 114,
+          "part": "prose",
+          "kanji": "当知是人",
+          "yomi": "とうちぜにん",
+          "start": 112.53,
+          "end": 113.28,
+          "src": "assets/audio/generated/283ee420d2752e06bdc5/continuous/114.mp3"
+        },
+        "115": {
+          "id": 115,
+          "part": "prose",
+          "kanji": "功徳不少",
+          "yomi": "くどくふしょう",
+          "start": 113.28,
+          "end": 114.04,
+          "src": "assets/audio/generated/283ee420d2752e06bdc5/continuous/115.mp3"
+        },
+        "116": {
+          "id": 116,
+          "part": "prose",
+          "kanji": "仏説是普門品時",
+          "yomi": "ぶっせつぜふもんぼんじ",
+          "start": 114.04,
+          "end": 115.395,
+          "src": "assets/audio/generated/283ee420d2752e06bdc5/continuous/116.mp3"
+        },
+        "117": {
+          "id": 117,
+          "part": "prose",
+          "kanji": "衆中八万四千衆生",
+          "yomi": "しゅちゅうはちまんしせんしゅじょう",
+          "start": 115.395,
+          "end": 116.925,
+          "src": "assets/audio/generated/283ee420d2752e06bdc5/continuous/117.mp3"
+        },
+        "118": {
+          "id": 118,
+          "part": "prose",
+          "kanji": "皆発無等等",
+          "yomi": "かいほつむとうどう",
+          "start": 116.925,
+          "end": 118.01,
+          "src": "assets/audio/generated/283ee420d2752e06bdc5/continuous/118.mp3"
+        },
+        "119": {
+          "id": 119,
+          "part": "prose",
+          "kanji": "阿耨多羅三藐三菩提心",
+          "yomi": "あのくたらさんみゃくさんぼだいしん",
+          "start": 118.01,
+          "end": 119.79,
+          "src": "assets/audio/generated/283ee420d2752e06bdc5/continuous/119.mp3"
+        }
+      },
+      "gapSeconds": 0,
+      "silenceTrim": {
+        "thresholdDb": -52,
+        "windowMs": 5,
+        "paddingMs": 5
+      }
+    }
+  },
+  "pitchReference": {
+    "url": "local-reference-recording",
+    "startSeconds": 40.0,
+    "endSeconds": 370.0,
+    "medianHz": 163.574,
+    "pitchRangeHz": [
+      155.882,
+      168.634
+    ],
+    "method": "WORLD F0 correction; reference contour normalized across the reading"
+  },
+  "phraseCount": 119,
+  "partCounts": {
+    "ge": 104,
+    "prose": 15
+  }
+}

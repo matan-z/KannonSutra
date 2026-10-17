@@ -1,0 +1,8 @@
+{
+  "source": "local-reference-recording",
+  "contents": "F0 and time values only; source audio is not included",
+  "framePeriodSeconds": 0.01,
+  "kanjiBeatSeconds": 0.6666666666666666,
+  "estimatedTitleStartSeconds": 13.55,
+  "alignment": "Approximate beat grid, not manually verified phoneme alignment"
+}

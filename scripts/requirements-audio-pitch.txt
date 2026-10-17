@@ -1,0 +1,4 @@
+numpy==2.4.3
+scipy==1.18.1
+pyworld==0.3.5
+soundfile==0.14.0
